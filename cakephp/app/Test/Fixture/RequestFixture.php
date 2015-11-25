@@ -30,8 +30,62 @@ class RequestFixture extends CakeTestFixture {
 		array(
 			'id' => 1,
 			'name' => 'Lorem ipsum dolor sit amet',
-			'start' => '2015-11-22',
-			'end' => '2015-11-22'
+			'start' => '2015-11-25',
+			'end' => '2015-11-25'
+		),
+		array(
+			'id' => 2,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'start' => '2015-11-25',
+			'end' => '2015-11-25'
+		),
+		array(
+			'id' => 3,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'start' => '2015-11-25',
+			'end' => '2015-11-25'
+		),
+		array(
+			'id' => 4,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'start' => '2015-11-25',
+			'end' => '2015-11-25'
+		),
+		array(
+			'id' => 5,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'start' => '2015-11-25',
+			'end' => '2015-11-25'
+		),
+		array(
+			'id' => 6,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'start' => '2015-11-25',
+			'end' => '2015-11-25'
+		),
+		array(
+			'id' => 7,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'start' => '2015-11-25',
+			'end' => '2015-11-25'
+		),
+		array(
+			'id' => 8,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'start' => '2015-11-25',
+			'end' => '2015-11-25'
+		),
+		array(
+			'id' => 9,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'start' => '2015-11-25',
+			'end' => '2015-11-25'
+		),
+		array(
+			'id' => 10,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'start' => '2015-11-25',
+			'end' => '2015-11-25'
 		),
 	);
 

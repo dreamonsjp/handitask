@@ -31,6 +31,51 @@ class WorkFixture extends CakeTestFixture {
 			'request_id' => 1,
 			'name' => 'Lorem ipsum dolor sit amet'
 		),
+		array(
+			'id' => 2,
+			'request_id' => 2,
+			'name' => 'Lorem ipsum dolor sit amet'
+		),
+		array(
+			'id' => 3,
+			'request_id' => 3,
+			'name' => 'Lorem ipsum dolor sit amet'
+		),
+		array(
+			'id' => 4,
+			'request_id' => 4,
+			'name' => 'Lorem ipsum dolor sit amet'
+		),
+		array(
+			'id' => 5,
+			'request_id' => 5,
+			'name' => 'Lorem ipsum dolor sit amet'
+		),
+		array(
+			'id' => 6,
+			'request_id' => 6,
+			'name' => 'Lorem ipsum dolor sit amet'
+		),
+		array(
+			'id' => 7,
+			'request_id' => 7,
+			'name' => 'Lorem ipsum dolor sit amet'
+		),
+		array(
+			'id' => 8,
+			'request_id' => 8,
+			'name' => 'Lorem ipsum dolor sit amet'
+		),
+		array(
+			'id' => 9,
+			'request_id' => 9,
+			'name' => 'Lorem ipsum dolor sit amet'
+		),
+		array(
+			'id' => 10,
+			'request_id' => 10,
+			'name' => 'Lorem ipsum dolor sit amet'
+		),
 	);
 
 }

@@ -31,6 +31,51 @@ class TaskFixture extends CakeTestFixture {
 			'name' => 'Lorem ipsum dolor sit amet',
 			'work_id' => 1
 		),
+		array(
+			'id' => 2,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'work_id' => 2
+		),
+		array(
+			'id' => 3,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'work_id' => 3
+		),
+		array(
+			'id' => 4,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'work_id' => 4
+		),
+		array(
+			'id' => 5,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'work_id' => 5
+		),
+		array(
+			'id' => 6,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'work_id' => 6
+		),
+		array(
+			'id' => 7,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'work_id' => 7
+		),
+		array(
+			'id' => 8,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'work_id' => 8
+		),
+		array(
+			'id' => 9,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'work_id' => 9
+		),
+		array(
+			'id' => 10,
+			'name' => 'Lorem ipsum dolor sit amet',
+			'work_id' => 10
+		),
 	);
 
 }

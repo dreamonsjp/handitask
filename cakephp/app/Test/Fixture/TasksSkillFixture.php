@@ -31,6 +31,51 @@ class TasksSkillFixture extends CakeTestFixture {
 			'task_id' => 1,
 			'skill_id' => 1
 		),
+		array(
+			'id' => 2,
+			'task_id' => 2,
+			'skill_id' => 2
+		),
+		array(
+			'id' => 3,
+			'task_id' => 3,
+			'skill_id' => 3
+		),
+		array(
+			'id' => 4,
+			'task_id' => 4,
+			'skill_id' => 4
+		),
+		array(
+			'id' => 5,
+			'task_id' => 5,
+			'skill_id' => 5
+		),
+		array(
+			'id' => 6,
+			'task_id' => 6,
+			'skill_id' => 6
+		),
+		array(
+			'id' => 7,
+			'task_id' => 7,
+			'skill_id' => 7
+		),
+		array(
+			'id' => 8,
+			'task_id' => 8,
+			'skill_id' => 8
+		),
+		array(
+			'id' => 9,
+			'task_id' => 9,
+			'skill_id' => 9
+		),
+		array(
+			'id' => 10,
+			'task_id' => 10,
+			'skill_id' => 10
+		),
 	);
 
 }
